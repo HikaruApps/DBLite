@@ -1,8 +1,3 @@
-Окей, тогда держи продвинутый, но стильный английский вариант README для твоего DBLite с вайбом “ретро-techy”, прям чтобы выглядел как продукт:
-
-
----
-
 # DBLite 🚀
 
 DBLite — a lightweight and minimalistic database manager built for speed, simplicity, and efficiency.  
